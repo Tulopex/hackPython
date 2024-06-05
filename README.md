@@ -1,5 +1,5 @@
 # hackPython
-Python + Hack
+Если хотите поддержать автора, то можете задонатить или подписаться на социальные сети
 
 <div id="badges">
   <a href="https://t.me/tulopex">
